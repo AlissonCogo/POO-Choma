@@ -1,6 +1,4 @@
-package org.example.Calculadora;
-
-import org.example.Calculadora.Calculadora;
+package org.example;
 
 public class Main {
     public static void main(String[] args) {

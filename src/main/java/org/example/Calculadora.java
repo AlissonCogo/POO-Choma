@@ -1,6 +1,7 @@
-package org.example.Calculadora;
+package org.example;
 
 public class Calculadora {
+    //Atributo
     private int numeroA;
     private int numeroB;
 
@@ -20,5 +21,3 @@ public class Calculadora {
 
     }
 }
-
-
